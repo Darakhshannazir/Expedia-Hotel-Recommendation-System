@@ -7,7 +7,7 @@
 
 A full-stack hotel recommendation system built on 41,000+ real Expedia booking transactions. This project goes beyond model accuracy — it translates machine learning outputs into actionable product strategy, marketing segmentation, and statistically validated deployment decisions.
 
-**Live Dashboard:** [Expedia Intelligence Suite](https://expedia-intelligence-suite.onrender.com) *(live link — may take 30s to wake up on free tier)*
+**Live Dashboard:** [Expedia Intelligence Suite](https://huggingface.co/spaces/Darakhshannazir/Expedia-Hotel-Recommendation-System) 
 
 ---
 
@@ -73,7 +73,7 @@ Preprocessing (RobustScaler)
 | Interpretability | SHAP |
 | Statistical Testing | scipy.stats (t-test, Cohen's d, confidence intervals) |
 | Visualisation | Plotly Dash, Matplotlib, Seaborn |
-| Deployment | Render.com |
+| Deployment | Hugging Face Spaces (Docker) |
 
 ---
 
