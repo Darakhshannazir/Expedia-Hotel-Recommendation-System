@@ -121,12 +121,6 @@ hotel-recommendation-system/
 
 ---
 
-## How to Run
-```bash
-git clone https://github.com/Darakhshannazir/hotel-recommendation-system.git
-pip install -r requirements.txt
-jupyter notebook Hotel_Recommendation_System.ipynb
-```
 
 ---
 
